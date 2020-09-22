@@ -12,4 +12,8 @@ The dataset used in this project is the Credit Card Approval dataset from the UC
 
 ## Project Tasks
 ### 1. Load the applications
-    The number of applications are <b>690</b> and each application has 16 different features. To protect the privacy of the customer, all the features has been anonymized.
+    The number of applications are **690** and each application has 16 different features. To protect the privacy of the customer, all the features has been anonymized.
+### 2. Inspect the applications
+    Inspect the numerical and categorical features, statistical summary and any missing values in the dataset.
+### 3. Handle misssing data
+    For numeric features mean imputation is used to fill in the missing data and for categorical features the most frequent values are used to fill the missing values.
