@@ -31,3 +31,4 @@ The dataset used in this project is the Credit Card Approval dataset from the UC
 ### 9. The best performing model
    1. In order to make the model better perform, **GridSearchCV** is used with 5-fold **cross-validation**.
    2. Improved the accuracy of the model to around **86%**
+
