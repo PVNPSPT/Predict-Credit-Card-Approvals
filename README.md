@@ -11,4 +11,5 @@ Data Manipulation with pandas
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository. (http://archive.ics.uci.edu/ml/datasets/credit+approval)
 
 ## Project Tasks
-
+### 1. Load the applications
+    The number of applications are <b>690</b> and each application has 16 different features. To protect the privacy of the customer, all the features has been anonymized.
