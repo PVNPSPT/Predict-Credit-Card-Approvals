@@ -27,7 +27,7 @@ The dataset used in this project is the Credit Card Approval dataset from the UC
 ### 7. Fit the model
    1. Fit the **Logistic Regression** model to the training set
 ### 8. Make predictions and evaluate the performance
-   1. The classifier predicted with an accuracy of **84%**
+   1. The classifier predicted whether an application get approved or not with an accuracy of **84%** given some information of the person.
 ### 9. The best performing model
    1. In order to make the model better perform, **GridSearchCV** is used with 5-fold **cross-validation**.
-   2. Improved the accuracy to around**86%**
+   2. Improved the accuracy of the model to around **86%**
