@@ -5,8 +5,8 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 ## Technologies used
 Python
-Predictive modeling
-Supervised Learning with scikit-learn
+Machine Learning
+Data manipulation
 
 ## Dataset
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository. (http://archive.ics.uci.edu/ml/datasets/credit+approval)
